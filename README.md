@@ -32,24 +32,19 @@ Thevenin’s Resistance, RTh:
 
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+**CIRCUIT DIAGRAM:**
+![WhatsApp Image 2025-10-15 at 13 53 51_71d1d272](https://github.com/user-attachments/assets/cde0d870-104a-4243-807f-a012ba1fb8bd)
 
-To measure IL
+![WhatsApp Image 2025-10-15 at 13 53 51_71d1d272](https://github.com/user-attachments/assets/973789b1-1dd2-4ff3-a5b3-cbb257c322f5)
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+**TABULATION:**
+![WhatsApp Image 2025-10-15 at 13 53 53_d90c2e88](https://github.com/user-attachments/assets/f0ae37af-a82b-420d-bff0-effddf733378)
 
-To measure RTh or RN
+**CALULATION:**
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+![WhatsApp Image 2025-10-15 at 13 53 46_b63e9a31](https://github.com/user-attachments/assets/967272e4-2ceb-426d-b0d5-0c647f0ae24d)
 
-To measure VTh or Voc
-
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
-
-Thevenin’s equivalent circuit
-
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
-
+![WhatsApp Image 2025-10-15 at 13 53 44_8f8a07d6](https://github.com/user-attachments/assets/b6d6ec9e-cc99-4584-86bb-e90dd8255768)
 
 **PROCEDURE:**
 
@@ -78,3 +73,17 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+**MARK SPLIT UP:**
+![WhatsApp Image 2025-10-15 at 13 53 56_613abfba](https://github.com/user-attachments/assets/1f4c04c2-857f-4e97-aee0-503ed0e3b87c)
+
+**RESULT:**
+Thus Thevenin's theorem is verified practically and theoretically.
+
+
+
+
+
+
+
+
